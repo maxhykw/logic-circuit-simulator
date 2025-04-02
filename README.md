@@ -1,1 +1,3 @@
 # logic-circuit-simulator
+
+This project is centered around the development of a Boolean circuit simulator using the open_digraph class, which models various logical gates and operations. It includes features for constructing complex circuits like full adders, Hamming encoders/decoders, and simulations of errors in transmitted messages. The circuit applies transformation rules like XOR associativity, involution, and elimination to optimize and simplify Boolean expressions. The simulator supports testing and verification, ensuring that circuits behave as expected, such as checking the composition of encoder-decoder pairs for identity. Additionally, a test suite is provided to validate the correct operation of the full adder and other circuit components.
